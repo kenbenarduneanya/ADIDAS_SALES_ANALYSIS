@@ -24,8 +24,8 @@ in the initial data preparation phase , we performed the following tasks:
 
 EDA involved exploring the sales data to answer key questions, such as;
 
-Enhanced Understanding of Sales Dynamics and Performance drivers.
-Identification of Geographical Areas With High and Low sales Potential.
-Insights Into Product Performance, Aiding in Inventory and Marketing Decisions.
-Informed Pricing and Margin Strategies for Improved Profitability.
-Actionable Recommendations For Optimizing Sales and Profit Across Various Dimensions.
+* Enhanced Understanding of Sales Dynamics and Performance drivers.
+* Identification of Geographical Areas With High and Low sales Potential.
+* Insights Into Product Performance, Aiding in Inventory and Marketing Decisions.
+* Informed Pricing and Margin Strategies for Improved Profitability.
+* Actionable Recommendations For Optimizing Sales and Profit Across Various Dimensions.
