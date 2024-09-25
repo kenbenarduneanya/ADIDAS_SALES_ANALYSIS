@@ -119,12 +119,12 @@ We should focus on our highest potential sales method i.e OUTLETS as They show c
 
 * Insights Into Product Performance, Aiding in Inventory and Marketing Decisions.
 
-MENS STREETWEAR was the best performing product category cummulatively with sold units of 435,526.00.
-MENS ATHLETIC FOOTWEAR at second cumulatively with sold units of 435,526.00.
-WOMENS APPAREL at third cummulatively with sold units of 433,827.00
-WOMENS STREET FOOTWEAR cummulatively with sold units of 392,269.00
-WOMENS ATHLETIC FOOTWEAR cummulatively with sold units of 317,236.00
-MENS APPAREL cummulatively with sold units of 306,683.00
+  * MENS STREETWEAR was the best performing product category cummulatively with sold units of 435,526.00.
+  * MENS ATHLETIC FOOTWEAR at second cumulatively with sold units of 435,526.00.
+  * WOMENS APPAREL at third cummulatively with sold units of 433,827.00
+  * WOMENS STREET FOOTWEAR cummulatively with sold units of 392,269.00
+  * WOMENS ATHLETIC FOOTWEAR cummulatively with sold units of 317,236.00
+  * MENS APPAREL cummulatively with sold units of 306,683.00
 
 ### RECOMENDATIONS
 Marketing Efforts and Inventory Priority should be given in accordance to sales performance of each product category going forward.
