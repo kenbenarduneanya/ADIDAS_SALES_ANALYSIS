@@ -82,7 +82,7 @@ KPI's (Key Point Indicators):
   * OUTLET= 849,778.00 UNITS SOLD
   * IN-STORES= 689,990.00 UNITS SOLD
 
-### FINDINGS 
+ * #### FINDINGS 
 Online Sales Method generated the highest total sum of units sold with 852,008.00. This is due to Economic Improvements and Increased Marketing Efforts in 2021.
 
 Outlets generated the second highest total sum of units sold with 631,089.00 Which is our highest growth potential due to consistent customer loyalty to retailers. This Trend was noted since 2020 and still maintained in 2021.
@@ -91,8 +91,6 @@ While In-store generate the lowest total sum of units sold with 689,990.00. this
 
 THE PERCENTAGE GROWTH FROM 2020 TO 2021 IS 294.51%. IN TOTAL SUM OF SALES GENERATED
 
-### RECOMENDATIONS
-We should focus on our highest potential sales method i.e OUTLETS as They show consistent performance YoY.
 
 * Identification of Geographical Areas With High and Low sales Potential.
 
@@ -132,8 +130,45 @@ Marketing Efforts and Inventory Priority should be given in accordance to sales 
 
 * Informed Pricing and Margin Strategies for Improved Profitability.
 
-
-
+Given the data:
+ * Average price per unit: $45
+ * Average units sold: 256.93
+ * Sum of units sold: 2.48 million
+We can deduce:
+ * Total revenue: 2.48 million * $45 = $111.6 million
+ * Number of transactions: 2.48 million / 256.93 ≈ 9650
+Potential Strategies to Improve Profitability and Maintain Demand:
+1. Cost Reduction:
+ * Supplier Negotiations: Negotiate better deals with suppliers to reduce the cost of goods sold.
+ * Operational Efficiency: Streamline processes to minimize overhead costs (e.g., energy, labor).
+ * Waste Reduction: Implement measures to reduce waste and minimize losses.
+2. Price Optimization:
+ * Dynamic Pricing: Consider adjusting prices based on demand, time of day, or location.
+ * Bundling: Offer bundled products or services to increase average order value.
+ * Tiered Pricing: Implement a tiered pricing structure to incentivize larger purchases.
+3. Product Mix Optimization:
+ * Margin Analysis: Identify products with the highest profit margins and focus on promoting them.
+ * Product Innovation: Develop new products or improve existing ones to meet changing customer needs.
+ * Product Lifecycle Management: Phase out low-performing products and introduce new ones.
+4. Customer Relationship Management (CRM):
+ * Loyalty Programs: Implement loyalty programs to encourage repeat purchases and customer retention.
+ * Personalized Marketing: Use customer data to tailor marketing efforts and provide relevant offers.
+ * Customer Feedback: Actively seek customer feedback to improve products and services.
+5. Market Expansion:
+ * New Markets: Explore new geographic markets or customer segments.
+ * Digital Channels: Leverage digital channels (e.g., e-commerce, social media) to reach a wider audience.
+ * Partnerships: Collaborate with complementary businesses to expand distribution channels.
+6. Inventory Management:
+ * Demand Forecasting: Use accurate demand forecasting to optimize inventory levels.
+ * Just-in-Time (JIT) Inventory: Implement JIT practices to minimize inventory holding costs.
+ * Obsolete Inventory: Regularly review inventory and dispose of obsolete items.
+7. Employee Training and Development:
+ * Skill Enhancement: Invest in employee training to improve productivity and efficiency.
+ * Customer Service: Ensure employees are well-trained in providing excellent customer service.
+ * Employee Engagement: Foster a positive work environment to increase employee satisfaction and retention.
 
 
 * Actionable Recommendations For Optimizing Sales and Profit Across Various Dimensions.
+
+* We should focus on our highest potential sales method i.e OUTLETS as They show consistent performance YoY.
+* 
