@@ -89,6 +89,8 @@ Outlets generated the second highest total sum of units sold with 631,089.00 Whi
 
 While In-store generate the lowest total sum of units sold with 689,990.00. this trend should be attended and proper evaluation of causing factors treated to avoid further losses.
 
+THE PERCENTAGE GROWTH FROM 2020 TO 2021 IS 294.51%. IN TOTAL SUM OF SALES GENERATED
+
 ### RECOMENDATIONS
 We should focus on our highest potential sales method i.e OUTLETS as They show consistent performance YoY.
 
