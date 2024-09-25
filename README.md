@@ -171,5 +171,5 @@ Potential Strategies to Improve Profitability and Maintain Demand:
 
 1. We should focus on our highest potential sales method i.e OUTLETS as They show consistent performance YoY.
 2. Increase marketing efforts in states with high growth potential
-3. Ensure Adequate marketing and inventory priority should be given to the best performing products to maintain market dominance and subsequently other categories to ensure growth across the categories
+3. Ensure adequate marketing and inventory priority should be given to the best performing products to maintain market dominance and subsequently other categories to ensure growth across the categories
 4. Proper consideration of strategies to improve margins and profitabilities given and accurately executed 
