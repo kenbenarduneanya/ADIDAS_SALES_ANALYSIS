@@ -124,7 +124,7 @@ THE PERCENTAGE GROWTH FROM 2020 TO 2021 IS 294.51%. IN TOTAL SUM OF SALES GENERA
   * WOMENS ATHLETIC FOOTWEAR cummulatively with sold units of 317,236.00
   * MENS APPAREL cummulatively with sold units of 306,683.00
 
-### RECOMENDATIONS
+* #### RECOMENDATIONS
 Marketing Efforts and Inventory Priority should be given in accordance to sales performance of each product category going forward.
 
 
@@ -137,35 +137,38 @@ Given the data:
 We can deduce:
  * Total revenue: 2.48 million * $45 = $111.6 million
  * Number of transactions: 2.48 million / 256.93 ≈ 9650
+
 Potential Strategies to Improve Profitability and Maintain Demand:
+
 1. Cost Reduction:
-  * Supplier Negotiations: Negotiate better deals with suppliers to reduce the cost of goods sold.
-  * Operational Efficiency: Streamline processes to minimize overhead costs (e.g., energy, labor).
-  * Waste Reduction: Implement measures to reduce waste and minimize losses.
+   * Supplier Negotiations: Negotiate better deals with suppliers to reduce the cost of goods sold.
+   * Operational Efficiency: Streamline processes to minimize overhead costs (e.g., energy, labor).
+   * Waste Reduction: Implement measures to reduce waste and minimize losses.
 2. Price Optimization:
-  * Dynamic Pricing: Consider adjusting prices based on demand, time of day, or location.
-  * Bundling: Offer bundled products or services to increase average order value.
-  * Tiered Pricing: Implement a tiered pricing structure to incentivize larger purchases.
+   * Dynamic Pricing: Consider adjusting prices based on demand, time of day, or location.
+   * Bundling: Offer bundled products or services to increase average order value.
+   * Tiered Pricing: Implement a tiered pricing structure to incentivize larger purchases.
 3. Product Mix Optimization:
-  * Margin Analysis: Identify products with the highest profit margins and focus on promoting them.
-  * Product Innovation: Develop new products or improve existing ones to meet changing customer needs.
-  * Product Lifecycle Management: Phase out low-performing products and introduce new ones.
+   * Margin Analysis: Identify products with the highest profit margins and focus on promoting them.
+   * Product Innovation: Develop new products or improve existing ones to meet changing customer needs.
+   * Product Lifecycle Management: Phase out low-performing products and introduce new ones.
 4. Customer Relationship Management (CRM):
-  * Loyalty Programs: Implement loyalty programs to encourage repeat purchases and customer retention.
-  * Personalized Marketing: Use customer data to tailor marketing efforts and provide relevant offers.
-  * Customer Feedback: Actively seek customer feedback to improve products and services.
+   * Loyalty Programs: Implement loyalty programs to encourage repeat purchases and customer retention.
+   * Personalized Marketing: Use customer data to tailor marketing efforts and provide relevant offers.
+   * Customer Feedback: Actively seek customer feedback to improve products and services.
 5. Market Expansion:
-  * New Markets: Explore new geographic markets or customer segments.
-  * Digital Channels: Leverage digital channels (e.g., e-commerce, social media) to reach a wider audience.
-  * Partnerships: Collaborate with complementary businesses to expand distribution channels.
+   * New Markets: Explore new geographic markets or customer segments.
+   * Digital Channels: Leverage digital channels (e.g., e-commerce, social media) to reach a wider audience.
+   * Partnerships: Collaborate with complementary businesses to expand distribution channels.
 6. Inventory Management:
-  * Demand Forecasting: Use accurate demand forecasting to optimize inventory levels.
-  * Just-in-Time (JIT) Inventory: Implement JIT practices to minimize inventory holding costs.
-  * Obsolete Inventory: Regularly review inventory and dispose of obsolete items.
+   * Demand Forecasting: Use accurate demand forecasting to optimize inventory levels.
+   * Just-in-Time (JIT) Inventory: Implement JIT practices to minimize inventory holding costs.
+   * Obsolete Inventory: Regularly review inventory and dispose of obsolete items.
 7. Employee Training and Development:
-  * Skill Enhancement: Invest in employee training to improve productivity and efficiency.
-  * Customer Service: Ensure employees are well-trained in providing excellent customer service.
-  * Employee Engagement: Foster a positive work environment to increase employee satisfaction and retention.
+   * Skill Enhancement: Invest in employee training to improve productivity and efficiency.
+   * Customer Service: Ensure employees are well-trained in providing excellent customer service.
+   * Employee Engagement: Foster a positive work environment to increase employee satisfaction and retention.
+
 
 * Actionable Recommendations For Optimizing Sales and Profit Across Various Dimensions.
 
