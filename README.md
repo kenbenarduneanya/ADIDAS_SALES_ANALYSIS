@@ -96,12 +96,38 @@ We should focus on our highest potential sales method i.e OUTLETS as They show c
 
 * Identification of Geographical Areas With High and Low sales Potential.
 
+* Highest State Sales (Cummulative)
+  * NEW YORK
+  * SUM OF SALES = $64,229,039
+
+* Second Highest State Sales (Cumulative)
+  * CARLIFORNIA
+  * SUM OF SALES = $60,174,133
+
+* Highest Growth Potential
+  * SOUTH CAROLINA
+  * AVG SALES = $203,372.4792
+
+* Lowest Growth Potential
+  * RHODE ISLAND
+  * AVG SALES = $39,105.5833
+
+* Second Lowest Growth Potemtial
+  * NEBRASKA
+  * AVG SALES = $41,173.875
 
 
 * Insights Into Product Performance, Aiding in Inventory and Marketing Decisions.
 
+MENS STREETWEAR was the best performing product category cummulatively with sold units of 435,526.00.
+MENS ATHLETIC FOOTWEAR at second cumulatively with sold units of 435,526.00.
+WOMENS APPAREL at third cummulatively with sold units of 433,827.00
+WOMENS STREET FOOTWEAR cummulatively with sold units of 392,269.00
+WOMENS ATHLETIC FOOTWEAR cummulatively with sold units of 317,236.00
+MENS APPAREL cummulatively with sold units of 306,683.00
 
-
+### RECOMENDATIONS
+Marketing Efforts and Inventory Priority should be given in accordance to sales performance of each product category going forward.
 
 
 * Informed Pricing and Margin Strategies for Improved Profitability.
