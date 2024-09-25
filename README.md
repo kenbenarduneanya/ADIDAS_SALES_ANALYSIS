@@ -20,7 +20,7 @@ in the initial data preparation phase , we performed the following tasks:
 2. Handling Missing Values
 3. Data Cleaning and Formatting
 
-### Exploratory Data Analysis
+### Business Requirements
 
 EDA involved exploring the sales data to answer key questions, such as;
 
@@ -53,3 +53,59 @@ KPI's (Key Point Indicators):
 
 ![image](https://github.com/user-attachments/assets/4124c878-9764-40ba-a9b3-7245b4511354)
 
+![adidas dasboard 2](https://github.com/user-attachments/assets/796d6df3-dca8-463f-891c-4e2124c6c6b5)
+
+### Business Analysis Findings & Recomendations
+
+* Enhanced Understanding of Sales Dynamics and Performance drivers.
+
+* Total Sales Analysis
+  * Total Sales for 2020 = $182.08M (74.18%)
+  * Total Sales for 2021= $717.82M (72.76%)
+  * TOTAL SALES = $899,902,125(73.04)
+  * Sum of Operating Profit 2020= $63,375,662.58(25.82)
+  * Sum of Operating Profit 2021= $268,759,098 (27.24%)
+  * TOTAL SUM OF OPERATING PROFIT = $332,134,761.45(26.96%)
+
+* SALES METHOD UNITS SOLD FOR 2020
+  * OUTLET= 218,689.00 UNITS SOLD
+  * IN-STORE= 156,575.00 UNITS SOLD
+  * ONLINE= 87,085.00 UNITS SOLD
+
+* SALES METHOD UNITS SOLD FOR 2021
+  * ONLINE= 852,008.00 UNITS SOLD
+  * OUTLET= 631,089.00 UNITS SOLD
+  * IN-STORE= 533,415.00 UNITS SOLD
+
+* CUMULATIVE
+  * ONLINE= 939,093.00 UNITS SOLD
+  * OUTLET= 849,778.00 UNITS SOLD
+  * IN-STORES= 689,990.00 UNITS SOLD
+
+### FINDINGS 
+Online Sales Method generated the highest total sum of units sold with 852,008.00. This is due to Economic Improvements and Increased Marketing Efforts in 2021.
+
+Outlets generated the second highest total sum of units sold with 631,089.00 Which is our highest growth potential due to consistent customer loyalty to retailers. This Trend was noted since 2020 and still maintained in 2021.
+
+While In-store generate the lowest total sum of units sold with 689,990.00. this trend should be attended and proper evaluation of causing factors treated to avoid further losses.
+
+### RECOMENDATIONS
+We should focus on our highest potential sales method i.e OUTLETS as They show consistent performance YoY.
+
+* Identification of Geographical Areas With High and Low sales Potential.
+
+
+
+* Insights Into Product Performance, Aiding in Inventory and Marketing Decisions.
+
+
+
+
+
+* Informed Pricing and Margin Strategies for Improved Profitability.
+
+
+
+
+
+* Actionable Recommendations For Optimizing Sales and Profit Across Various Dimensions.
